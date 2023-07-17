@@ -4959,16 +4959,22 @@ input, select, textarea {
 			.spotlight.style1 .content {
 				padding: 2.5rem 2rem 0.5rem 2rem ;
 			}
+				#screenshot {
+					display: block;
+				}
+					#screenshot-responsive {
+						display: none;
+					}
 			
 		}
 
 		@media screen and (max-width: 517px) {
-			#screenshot {
+			/* #screenshot {
 				display: block;
 			}
 				#screenshot-responsive {
 					display: none;
-				}
+				} */
 			
 		}
 
