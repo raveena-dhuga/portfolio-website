@@ -303,7 +303,7 @@ h6 a {
 
 h1 {
   font-size: 3.5rem;
-  line-height: 1.2;
+  /* line-height: 1.2; */
 }
 
 h2 {
@@ -5098,7 +5098,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 
 @media screen and (max-width: 736px) {
   #second :nth-child(1) {
-    letter-spacing: initial;
+    letter-spacing: -0.05em;
   }
 
   #second :nth-child(2) {
