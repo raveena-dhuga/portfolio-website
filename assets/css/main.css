@@ -5099,10 +5099,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 @media screen and (max-width: 736px) {
   #second :nth-child(1) {
     letter-spacing: -0.05em;
-  }
-
-  #second :nth-child(2) {
-    font-size: 1.3rem;
+    font-weight: 400;
   }
 
   #third {
