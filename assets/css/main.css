@@ -5071,9 +5071,9 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 }
 
 #second h1 {
-  font-size: 44px;
+  font-size: 2.5rem;
   font-weight: 600;
-  letter-spacing: 1px;
+  letter-spacing: 0.3px;
 }
 
 #second :nth-child(2) {
@@ -5098,7 +5098,8 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 
 @media screen and (max-width: 736px) {
   #second :nth-child(1) {
-    font-size: 30px;
+    font-size: 2.2rem;
+    letter-spacing: normal;
   }
 
   #second :nth-child(2) {
@@ -5133,13 +5134,6 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
     padding-bottom: 0.5rem;
   }
 
-  #second :nth-child(1) {
-    font-size: 30px;
-  }
-  #second :nth-child(2) {
-    font-size: 1rem;
-  }
-
   #third {
     font-size: 15px;
     letter-spacing: 1px;
@@ -5147,7 +5141,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
   }
 
   #fourth {
-    padding: 50px 65px 35px 40px;
+    padding: 80px 65px 55px 40px;
   }
 
   /* #screenshot {
