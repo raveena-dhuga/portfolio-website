@@ -5098,8 +5098,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 
 @media screen and (max-width: 736px) {
   #second :nth-child(1) {
-    font-size: 2.2rem;
-    letter-spacing: normal;
+    letter-spacing: initial;
   }
 
   #second :nth-child(2) {
@@ -5141,7 +5140,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
   }
 
   #fourth {
-    padding: 80px 65px 55px 40px;
+    padding: 90px 65px 45px 40px;
   }
 
   /* #screenshot {
